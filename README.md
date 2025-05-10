@@ -1,12 +1,8 @@
-This repository is used to store starUML diagrams for the project.
-
-The diagrams of each member may be different based on their chosen design.
+This repository is used to store starUML diagrams for the project, it is not meant to be a final version of the diagrams, but rather a place to store the diagrams for each member's design. Also, **This repository maybe used in other projects as well, so please do not delete any files or folders unless you are sure they are not needed.**
 
 The diagrams are not final and may change as the project progresses as well as all diagrams will be collected and presented in the final report of the project at the end of the semester. The link to the final report will be provided in [here](https://docs.google.com/document/d/1emhFDKAuqFL2v9cvymAkLLPlpnCTfnuZAYopuodtj7Q/edit?usp=sharing).
 
-This repository is not meant to be a final version of the diagrams, but rather a place to store the diagrams for each member's design.
-
-This repository maybe used in other projects as well, so please do not delete any files or folders unless you are sure they are not needed.
+Huynh Thanh Sang.
 
 ---
 
