@@ -1,0 +1,1 @@
+This note is specifically for the Nguyen Lan Huong folder. It contains information about the contents of this folder and any relevant notes or instructions for future reference.
