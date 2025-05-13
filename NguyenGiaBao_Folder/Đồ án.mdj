@@ -2965,7 +2965,7 @@
 													"left": 327,
 													"top": 420,
 													"width": 105,
-													"height": 52,
+													"height": 39,
 													"text": "Nhập thông tin thuốc tìm kiếm và bấm nút tìm kiếm",
 													"wordWrap": true
 												},
@@ -3004,7 +3004,7 @@
 											"left": 322,
 											"top": 413,
 											"width": 115,
-											"height": 64,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGWpiljmpPt8R0="
 											},
@@ -10668,7 +10668,7 @@
 													"left": 857,
 													"top": 989,
 													"width": 117,
-													"height": 26,
+													"height": 13,
 													"text": "Xử lý tra cứu thuốc",
 													"wordWrap": true
 												},
@@ -10707,7 +10707,7 @@
 											"left": 852,
 											"top": 982,
 											"width": 127,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGWuiiQjHE4Wz0="
 											},
@@ -10879,7 +10879,7 @@
 													"left": 1204,
 													"top": 992,
 													"width": 117,
-													"height": 26,
+													"height": 13,
 													"text": "Tìm  thông tin thuốc",
 													"wordWrap": true
 												},
@@ -10918,7 +10918,7 @@
 											"left": 1199,
 											"top": 985,
 											"width": 127,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGWuiiQjHFCiZ8="
 											},
@@ -21250,7 +21250,7 @@
 											"parentStyle": true,
 											"left": 933,
 											"top": 246,
-											"width": 323,
+											"width": 315,
 											"height": 13,
 											"text": "Cơ sở dữ liệu",
 											"verticalAlignment": 3
@@ -21274,7 +21274,7 @@
 									"parentStyle": false,
 									"left": 933,
 									"top": 242,
-									"width": 323,
+									"width": 315,
 									"height": 601,
 									"nameLabel": {
 										"$ref": "AAAAAAGWphQhJ4+GBy4="
@@ -21916,7 +21916,7 @@
 									"tail": {
 										"$ref": "AAAAAAGWphcpxZAVZv0="
 									},
-									"points": "546:447;775:447;775:448",
+									"points": "546:447;775:447;775:464",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGWphqjNJC+Frw="
@@ -21957,8 +21957,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"left": 422,
-													"top": -32,
+													"left": 428,
 													"height": 13
 												},
 												{
@@ -21969,8 +21968,8 @@
 													},
 													"font": "Arial;13;1",
 													"parentStyle": true,
-													"left": 674,
-													"top": 455,
+													"left": 677,
+													"top": 471,
 													"width": 203.22998046875,
 													"height": 13,
 													"text": "Kiểm tra định dạng các thông tin"
@@ -21984,8 +21983,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"left": 422,
-													"top": -32,
+													"left": 428,
 													"width": 91.03173828125,
 													"height": 13,
 													"text": "(from Hệ thống)"
@@ -21999,16 +21997,15 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"left": 422,
-													"top": -32,
+													"left": 428,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 669,
-											"top": 448,
+											"left": 672,
+											"top": 464,
 											"width": 213.22998046875,
 											"height": 25,
 											"stereotypeLabel": {
@@ -22031,10 +22028,10 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"containerChangeable": true,
-									"left": 669,
-									"top": 448,
+									"left": 672,
+									"top": 464,
 									"width": 212.22998046875,
-									"height": 41,
+									"height": 48,
 									"nameCompartment": {
 										"$ref": "AAAAAAGWphgOHJA2/PM="
 									}
@@ -22062,7 +22059,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": false,
 											"left": 793,
-											"top": 506,
+											"top": 518,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -22084,7 +22081,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": false,
 											"left": 808,
-											"top": 506,
+											"top": 518,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -22106,7 +22103,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": false,
 											"left": 764,
-											"top": 507,
+											"top": 519,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -22124,7 +22121,7 @@
 									"tail": {
 										"$ref": "AAAAAAGWphgOHJA165U="
 									},
-									"points": "779:489;779:538",
+									"points": "779:512;779:538",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGWwxhhF2i5T3o="
@@ -26512,9 +26509,9 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 459,
+													"left": 428,
 													"top": 157,
-													"width": 210.98974609375,
+													"width": 273.15869140625,
 													"height": 13,
 													"alpha": 1.599564363543917,
 													"distance": 139.05754204644924,
@@ -26522,7 +26519,7 @@
 														"$ref": "AAAAAAGWxzJW845e0vw="
 													},
 													"edgePosition": 1,
-													"text": "1 : Hiển thị giao diện Tìm kiếm thuốc"
+													"text": "1 : Hiển thị giao diện Tìm kiếm thuốc trực tuyến"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -27236,9 +27233,9 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 492,
+													"left": 479,
 													"top": 510,
-													"width": 155.3779296875,
+													"width": 180.67333984375,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -27246,7 +27243,7 @@
 														"$ref": "AAAAAAGWxzmBKI7tIlY="
 													},
 													"edgePosition": 1,
-													"text": "6 : Hiển thị danh sách rỗng"
+													"text": "6 : Hiển thị thông tin thuốc rỗng"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -27352,9 +27349,9 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 454,
+													"left": 441,
 													"top": 692,
-													"width": 230.369140625,
+													"width": 257.72119140625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -27362,7 +27359,7 @@
 														"$ref": "AAAAAAGWxzn2H48EuIY="
 													},
 													"edgePosition": 1,
-													"text": "7 : Hiển thị danh sách tìm kiếm phù hợp"
+													"text": "7 : Hiển thị thông tin thuốc trên cơ sở dữ liệu"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -27457,7 +27454,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGWxzAwJ42KMDU="
 									},
-									"name": "Hiển thị giao diện Tìm kiếm thuốc",
+									"name": "Hiển thị giao diện Tìm kiếm thuốc trực tuyến",
 									"source": {
 										"$ref": "AAAAAAGWxzESyI3s/po="
 									},
@@ -27527,7 +27524,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGWxzAwJ42KMDU="
 									},
-									"name": "Hiển thị danh sách rỗng",
+									"name": "Hiển thị thông tin thuốc rỗng",
 									"source": {
 										"$ref": "AAAAAAGWxzHcUI4xwBg="
 									},
@@ -27541,7 +27538,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGWxzAwJ42KMDU="
 									},
-									"name": "Hiển thị danh sách tìm kiếm phù hợp",
+									"name": "Hiển thị thông tin thuốc trên cơ sở dữ liệu",
 									"source": {
 										"$ref": "AAAAAAGWxzHcUI4xwBg="
 									},
@@ -36009,7 +36006,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 343,
+									"left": 347,
 									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -36032,7 +36029,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 343,
+									"left": 347,
 									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -36055,7 +36052,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 343,
+									"left": 347,
 									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
@@ -42649,7 +42646,7 @@
 									"parentStyle": true,
 									"left": 450,
 									"top": 110,
-									"width": 77.16455078125,
+									"width": 77,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuL1mLO8Mctw="
@@ -52149,9 +52146,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 802.5,
-											"top": 523.5,
+											"top": 530,
 											"width": 79,
-											"height": 26,
+											"height": 13,
 											"text": "Xoá phản hồi",
 											"wordWrap": true
 										},
@@ -52188,9 +52185,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 797.5,
-									"top": 516.5,
+									"top": 523,
 									"width": 89,
-									"height": 38,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuT709aUxy00="
 									},
@@ -52810,7 +52807,7 @@
 									"parentStyle": true,
 									"left": 1229.5,
 									"top": 276,
-									"width": 103.9072265625,
+									"width": 103,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuU21kiYXmew="
@@ -53020,7 +53017,7 @@
 									"parentStyle": true,
 									"left": 1550,
 									"top": 277,
-									"width": 77.16455078125,
+									"width": 77,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuU3XQCZEZ80="
@@ -53329,7 +53326,7 @@
 									"parentStyle": true,
 									"left": 1123,
 									"top": 469,
-									"width": 178.30810546875,
+									"width": 178,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuVFCxUHbOGw="
@@ -54571,7 +54568,7 @@
 									"parentStyle": true,
 									"left": 1133.5,
 									"top": 364,
-									"width": 155.9453125,
+									"width": 155,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWuV4uVoNu1IU="
